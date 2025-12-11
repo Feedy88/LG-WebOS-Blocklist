@@ -11,12 +11,16 @@
 # de.emp.lgsmartplatform.com
 
 #Temporary disabled for initial setup
-de.ibs.lgappstv.com
-DE.ibs.lgappstv.com
-de.lgrecommends.lgappstv.com
-de.info.lgsmartad.com
-DE.info.lgsmartad.com
-eic-gfts.lge.com
+#de.ibs.lgappstv.com
+#DE.ibs.lgappstv.com
+#de.lgrecommends.lgappstv.com
+#de.info.lgsmartad.com
+#DE.info.lgsmartad.com
+#eic-gfts.lge.com
+#de.emp.lgsmartplatform.com
+#DE.emp.lgsmartplatform.com
+
+
 
 *.ad.lgsmartad.com
 *.ibs.lgappstv.com
@@ -52,8 +56,6 @@ d21mt1804189nk.cloudfront.net
 datasync.sibbo.net
 de-lgtvsdp-com.aws-prd.net
 de.ad.lgsmartad.com
-de.emp.lgsmartplatform.com
-de.emp.lgsmartplatform.com
 de.lgeapi.com
 de.lgtvsdp.com
 DE.lgtvsdp.com
