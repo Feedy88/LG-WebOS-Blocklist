@@ -1,3 +1,4 @@
+# Based on https://raw.githubusercontent.com/TheBlockList/Blocklist/master/LG-SmartTV
 # This File is based on a WebOS22 TV
 # For Systemupdates you need following domains
 # snu.lge.com + su-ssl.lge.com + su-ssl.lge.com.edgekey.net
