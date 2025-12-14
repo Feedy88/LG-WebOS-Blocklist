@@ -11,16 +11,7 @@
 # If you need your LG-Account to download some Apps, allow this domain beginning with your country-code (example for germany):
 # de.emp.lgsmartplatform.com
 
-#Temporary disabled for initial setup
-#de.ibs.lgappstv.com
-#DE.ibs.lgappstv.com
-#de.lgrecommends.lgappstv.com
-#de.info.lgsmartad.com
-#DE.info.lgsmartad.com
-#eic-gfts.lge.com
-#de.emp.lgsmartplatform.com
-#DE.emp.lgsmartplatform.com
-
+#Most of the above are handled in a separate list
 
 
 *.ad.lgsmartad.com
